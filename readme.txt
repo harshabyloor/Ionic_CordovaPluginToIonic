@@ -1,0 +1,1 @@
+Communication between cordova plugin to ionic
