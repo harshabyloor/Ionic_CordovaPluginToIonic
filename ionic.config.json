@@ -1,0 +1,7 @@
+{
+  "name": "datapasstrial",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

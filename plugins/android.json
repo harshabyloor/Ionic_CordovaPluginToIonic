@@ -1,0 +1,40 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-darryncampbell-cordova-plugin-intent": {
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    },
+    "com.napolitano.cordova.plugin.intent": {
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    },
+    "cordova-plugin-ionic-webview": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    },
+    "cordova-plugin-printer": {
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.efi.datapasstrial"
+    }
+  },
+  "dependent_plugins": {}
+}
